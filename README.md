@@ -1,22 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 5,003
-README.md
-Inbox
-
-Aathavan Ganesan <aathavang123002@gmail.com>
-Attachments
-10:25 (0 minutes ago)
-to me
-
- One attachment
-  •  Scanned by Gmail
-
-Memo
-Highlight
-Explain
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
