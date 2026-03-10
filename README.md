@@ -18,7 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:aathavang123002@gmail.com">
-      <img src="https://img.shields.io/badge/📧_aathavang123002@gmail.com-1e1e2e?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/📧_aathavang123002@gmail.com-1e1e2e?style=flat-square" />
     </a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
   </p>
@@ -63,9 +63,8 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <br/><br/>
 
-<p>
-UiPath • Power BI • RPA
-</p>
+<img src="https://img.shields.io/badge/UiPath-orange?style=for-the-badge&logo=uipath&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </td>
 </tr>
